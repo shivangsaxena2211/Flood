@@ -8,7 +8,7 @@ A computer-vision tool that scans uploaded imagery for flood damage — detectin
 
 Upload a single image or a batch, and run the assessment from one screen.
 
-![Dashboard — submit imagery for analysis](dash.png)
+![Dashboard — submit imagery for analysis](Dash.png)
 
 - **Single or multiple image upload** — switch modes depending on whether you're assessing one site or a batch
 - **Drag-and-drop intake** — drop files directly or browse manually
